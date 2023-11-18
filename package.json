@@ -1,7 +1,7 @@
 {
   "name": "@liqd-js/phonenumber",
   "description": "Phone number validation library",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/phonenumber.js",
